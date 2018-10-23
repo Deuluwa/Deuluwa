@@ -37,10 +37,11 @@ C# 기반의 크로스 플랫폼 Xamarain.Forms을 이용해 개발하는 프로
 ## 구현 사항
 구현해야할 사항은 다음과 같다.
 
-* [DB 설계](https://github.com/HEROHJK/Deuluwa/tree/master/SQL)
-* Xamarin을 이용한 안드로이드 iOS 프론트 디자인
-* Xamarin을 이용한 안드로이드, iOS 위치정보, NFC태그, 카메라 QR코드 기능 개발
-* Xamarin을 이용한 DB제어(추후 파이썬 서버로 수정 예정)
-* Winform을 이용한 관리자 프로그램
+* 모바일용 본 어플리케이션 개발
+* [DB 설계](https://github.com/Deuluwa/DB)
+* [메인 Core 모듈 개발](https://github.com/Deuluwa/Core)
+* [웹 API 서버 개발](https://github.com/Deuluwa/WebServer)
+* [관리자용 Windows 프로그램 개발](https://github.com/Deuluwa/Admin)
+* 관리자용 Windows 프로그램 웹으로 개발(예정사항)
 
 ## [프로토 타입](https://ovenapp.io/view/ZuTOW7cSXyGGQAZZ4GlItVUUocaTsaYJ/)
